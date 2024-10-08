@@ -1,4 +1,4 @@
-package creational_pattern.singleton_pattern._04_thread_safe_singleton;
+package creational_pattern._01_singleton_pattern._04_thread_safe_singleton;
 
 public class Singleton {
 

@@ -1,4 +1,4 @@
-package creational_pattern.singleton_pattern._03_lazy_initialization;
+package creational_pattern._01_singleton_pattern._03_lazy_initialization;
 
 public class Client {
 

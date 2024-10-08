@@ -1,4 +1,4 @@
-package creational_pattern.singleton_pattern._05_bill_pugh_singleton_implementaion;
+package creational_pattern._01_singleton_pattern._05_bill_pugh_singleton_implementaion;
 
 public class Singleton {
 

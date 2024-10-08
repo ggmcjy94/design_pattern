@@ -1,4 +1,4 @@
-package creational_pattern.singleton_pattern._02_static_block_initialization;
+package creational_pattern._01_singleton_pattern._02_static_block_initialization;
 
 public class Singleton {
 

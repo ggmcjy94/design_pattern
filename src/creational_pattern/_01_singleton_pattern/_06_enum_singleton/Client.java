@@ -1,4 +1,4 @@
-package creational_pattern.singleton_pattern._06_enum_singleton;
+package creational_pattern._01_singleton_pattern._06_enum_singleton;
 
 public class Client {
     //앞선 싱글톤 방식들은 완전히 안전할 수 없다 왜냐하면 java의 reflection 을 통해서 싱글톤을 파괴할 수 있기 때문이다, 그래서 나온 싱글톤 방식이 enum으로 싱글톤을 구현한 방법이다.

@@ -1,4 +1,4 @@
-package creational_pattern.singleton_pattern._06_enum_singleton;
+package creational_pattern._01_singleton_pattern._06_enum_singleton;
 
 public enum Singleton {
 
